@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+<alumno id="1" nombre="test_1" edad="21" calificacion="5" email="test1@hotmail.com" />
+<alumno id="2" nombre="test_2" edad="22" calificacion="6" email="test2@hotmail.com" />
+<alumno id="3" nombre="test_3" edad="23" calificacion="7" email="test3@hotmail.com" />
+<alumno id="4" nombre="Andoni" edad="21" calificacion="8" email="andoni@outlook.com" />
+</dataset>
